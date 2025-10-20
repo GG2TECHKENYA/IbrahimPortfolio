@@ -102,6 +102,9 @@ export default {
       boxShadow: {
         'elegant': 'var(--shadow-elegant)',
         'glow': 'var(--shadow-glow)',
+        'primary': 'var(--shadow-primary)',
+        'secondary': 'var(--shadow-secondary)',
+        'accent': 'var(--shadow-accent)',
       },
     },
   },
