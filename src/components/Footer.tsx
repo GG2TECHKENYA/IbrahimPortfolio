@@ -4,7 +4,7 @@ const Footer = () => {
       <div className="absolute inset-0 bg-gradient-to-t from-primary/5 to-transparent" />
       <div className="container mx-auto px-6 text-center relative z-10">
         <p className="text-muted-foreground font-semibold uppercase tracking-wider">
-          © {new Date().getFullYear()} <span className="text-primary font-black">Portfolio</span> • Built with React & Tailwind
+          © {new Date().getFullYear()} <span className="text-primary font-black">Portfolio</span> • Ibrahim Ndeje
         </p>
       </div>
     </footer>
